@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+:root {
+    --main-color: #FFFFFF;
+    --color-1: #1D1D1D;
+    --color-2: #262626;
+    --color-3: #327430;
+    --color-4: #626262;
+    --header-btn-height: 40px;
+    --header-btn-width: 80px;
+}
+
+body {
+    font-family: 'Roboto';
+}
+
+a {
+    text-decoration: none;
+    color: #626262;
+}
